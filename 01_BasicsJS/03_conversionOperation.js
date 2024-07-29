@@ -54,5 +54,17 @@ console.log(typeof stringNumber);
 // console.log(gameCounter);
 
 
-console.log("2" === 2);
+// console.log("2" === 2);
+
+let score = undefined;
+
+let sample = boolean(score);
+console.log(sample);
+console.log(typeof(sample));
+
+
+// let a = null;
+// console.log(a);
+// let b = Boolean(a);
+// console.log(b);
 
